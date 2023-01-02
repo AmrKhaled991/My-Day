@@ -1,0 +1,19 @@
+{
+"settings":"settings",
+"language":"language",
+"english":"English",
+"arabic":"Arabic",
+"light":"Light",
+"dark":"Dark",
+"theming":"Theming",
+"todolist":"To Do list",
+"discraption":"Discraption",
+"title":"Title",
+"addnewtask":"Add new task",
+"selctdate":"Selct date",
+"add":"Add",
+"done":"Done",
+"task":"task",
+"edittask":"Edit task"
+
+}
